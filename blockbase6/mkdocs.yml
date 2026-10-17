@@ -1,0 +1,26 @@
+
+site_name: blockbase6
+site_description: Minecraftの攻略情報と自動化ガイド
+site_author: blockbase6
+
+theme:
+  name: material
+  language: ja
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+nav:
+  - ホーム: index.md
+  - 攻略ガイド:
+      - AE2攻略: ae2.md
+      - Thermal攻略: thermal.md
+  - サイトについて: about.md

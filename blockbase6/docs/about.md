@@ -1,0 +1,3 @@
+# このサイトについて
+
+BlockBase6はMinecraftのMod攻略情報をまとめるサイトです。
