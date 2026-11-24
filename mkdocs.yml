@@ -1,6 +1,6 @@
 
 site_name: blockbase6
-site_description: Minecraft&いろいろ
+site_description: Minecraft
 site_author: blockbase6
 
 theme:
@@ -21,12 +21,10 @@ plugins:
 nav:
   - ホーム: index.md
   - マイクラMOD:
-  - 工業:
-      - Applied Energistics2(ae2): ae2.md
-      - Thermal: thermal.md
-      - Mekanism : mekanism.md
+      - 工業:
+          - Applied Energistics2(ae2): ae2.md
+          - Thermal: thermal.md
+          - Mekanism: mekanism.md
   - modpack:
       - mekacraft.md
-  
-  
   - サイトについて: about.md
