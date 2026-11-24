@@ -1,6 +1,6 @@
 
 site_name: blockbase6
-site_description: Minecraftの攻略情報と自動化ガイド
+site_description: Minecraft&いろいろ
 site_author: blockbase6
 
 theme:
@@ -20,7 +20,17 @@ plugins:
 
 nav:
   - ホーム: index.md
-  - 攻略ガイド:
-      - AE2攻略: ae2.md
-      - Thermal攻略: thermal.md
+  - マイクラMOD:
+  - 工業:
+      - Applied Energistics2(ae2): ae2.md
+      - Thermal: thermal.md
+      - Mekanism : mekanism.md
+  - 魔術:
+      - goety :
+  
+  - modpack:
+      - All the Mods 9 - To the Sky (atm9sky)
+      - Meka craft 
+  
+  
   - サイトについて: about.md
