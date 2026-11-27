@@ -23,11 +23,12 @@ nav:
   - hoi4:
       - hoi4 : hoi4.md
   - コーディング:
-    - scratch:
-    - C#+godot:
-    - MarkDown:
+    - scratch: scratch.md
+    - MarkDown: markdown.md
+    - C#:
+      - C#+godot: godot.md
     - java:
-      - java2D:
+      - java2D: java2d.md
       
   - ポーランドボール:
     - カードゲーム化計画 : polandballcard.md

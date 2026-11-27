@@ -1,6 +1,6 @@
-#mekanism
+## mekanism
 作りかけ記事
-最終更新26/10/25
+最終更新261127
 
 minecraft1.20.1におけるmekanismを解説します
 公式アドオン　mekanism generatorが入っている前提で解説します
@@ -11,6 +11,7 @@ https://www.curseforge.com/minecraft/mc-mods/mekanism
 
 大規模な工業mod 
 鉱石5倍や核融合発電まで楽しめます
+no1神modだと思う
 
 ##進め方（デジタルマイナーまで）
 レッドストーン
@@ -21,7 +22,8 @@ https://www.curseforge.com/minecraft/mc-mods/mekanism
 
 を結構たくさん用意しましょう
 オスミウムは装備に使えます　かなり強いです（公式アドオン　mekanism tools　導入時）
-またパクセルは最高レベルです
+パクセルはつよい
+
 
 冶金注入機
 熱発電機
