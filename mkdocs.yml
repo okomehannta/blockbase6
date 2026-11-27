@@ -21,7 +21,7 @@ plugins:
 nav:
   - ホーム: index.md
   - hoi4:
-      -hoi4 : hoi4.md
+      - hoi4 : hoi4.md
   - コーディング:
     - scratch:
     - C#+godot:
@@ -30,7 +30,7 @@ nav:
       - java2D:
       
   - ポーランドボール:
-    -カードゲーム化計画 : polandballcard.md
+    - カードゲーム化計画 : polandballcard.md
   - マイクラMOD:
       - 工業:
           - Applied Energistics2(ae2): ae2.md
