@@ -23,11 +23,11 @@ nav:
   - hoi4:
       -hoi4 : hoi4.md
   - コーディング:
-    -scratch:
-    -C#+godot:
-    -MarkDown:
-    -java:
-      java2D:
+    - scratch:
+    - C#+godot:
+    - MarkDown:
+    - java:
+      - java2D:
       
   - ポーランドボール:
     -カードゲーム化計画 : polandballcard.md
